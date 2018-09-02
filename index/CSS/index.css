@@ -1,0 +1,21 @@
+html{
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../Images/fortnite-background.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+
+h1{
+  color: blue;
+  text-align: center;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+h3{
+  color: blue;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+p{
+  color: white;
+  font-family: fantasy;
+}
